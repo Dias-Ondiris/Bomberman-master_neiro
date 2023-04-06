@@ -1,0 +1,708 @@
+[
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "game",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "game",
+        "description": "game",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Bomb",
+        "importPath": "bomb",
+        "description": "bomb",
+        "isExtraImport": true,
+        "detail": "bomb",
+        "documentation": {}
+    },
+    {
+        "label": "Bomb",
+        "importPath": "bomb",
+        "description": "bomb",
+        "isExtraImport": true,
+        "detail": "bomb",
+        "documentation": {}
+    },
+    {
+        "label": "Bomb",
+        "importPath": "bomb",
+        "description": "bomb",
+        "isExtraImport": true,
+        "detail": "bomb",
+        "documentation": {}
+    },
+    {
+        "label": "Enemy",
+        "importPath": "enemy",
+        "description": "enemy",
+        "isExtraImport": true,
+        "detail": "enemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enemy",
+        "importPath": "enemy",
+        "description": "enemy",
+        "isExtraImport": true,
+        "detail": "enemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enemy",
+        "importPath": "enemy",
+        "description": "enemy",
+        "isExtraImport": true,
+        "detail": "enemy",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "importPath": "player",
+        "description": "player",
+        "isExtraImport": true,
+        "detail": "player",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "importPath": "player",
+        "description": "player",
+        "isExtraImport": true,
+        "detail": "player",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "importPath": "player",
+        "description": "player",
+        "isExtraImport": true,
+        "detail": "player",
+        "documentation": {}
+    },
+    {
+        "label": "Algorithm",
+        "importPath": "enums.algorithm",
+        "description": "enums.algorithm",
+        "isExtraImport": true,
+        "detail": "enums.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "Algorithm",
+        "importPath": "enums.algorithm",
+        "description": "enums.algorithm",
+        "isExtraImport": true,
+        "detail": "enums.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "Algorithm",
+        "importPath": "enums.algorithm",
+        "description": "enums.algorithm",
+        "isExtraImport": true,
+        "detail": "enums.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "Algorithm",
+        "importPath": "enums.algorithm",
+        "description": "enums.algorithm",
+        "isExtraImport": true,
+        "detail": "enums.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "Algorithm",
+        "importPath": "enums.algorithm",
+        "description": "enums.algorithm",
+        "isExtraImport": true,
+        "detail": "enums.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "node",
+        "description": "node",
+        "isExtraImport": true,
+        "detail": "node",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUpType",
+        "importPath": "enums.power_up_type",
+        "description": "enums.power_up_type",
+        "isExtraImport": true,
+        "detail": "enums.power_up_type",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUpType",
+        "importPath": "enums.power_up_type",
+        "description": "enums.power_up_type",
+        "isExtraImport": true,
+        "detail": "enums.power_up_type",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUpType",
+        "importPath": "enums.power_up_type",
+        "description": "enums.power_up_type",
+        "isExtraImport": true,
+        "detail": "enums.power_up_type",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUp",
+        "importPath": "power_up",
+        "description": "power_up",
+        "isExtraImport": true,
+        "detail": "power_up",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUp",
+        "importPath": "power_up",
+        "description": "power_up",
+        "isExtraImport": true,
+        "detail": "power_up",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Explosion",
+        "importPath": "explosion",
+        "description": "explosion",
+        "isExtraImport": true,
+        "detail": "explosion",
+        "documentation": {}
+    },
+    {
+        "label": "pygame_menu",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame_menu",
+        "description": "pygame_menu",
+        "detail": "pygame_menu",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Algorithm",
+        "kind": 6,
+        "importPath": "enums.algorithm",
+        "description": "enums.algorithm",
+        "peekOfCode": "class Algorithm(Enum):\n    DFS = 0\n    DIJKSTRA = 1\n    PLAYER = 2\n    NONE = 3",
+        "detail": "enums.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUpType",
+        "kind": 6,
+        "importPath": "enums.power_up_type",
+        "description": "enums.power_up_type",
+        "peekOfCode": "class PowerUpType(Enum):\n    BOMB = 0\n    FIRE = 1",
+        "detail": "enums.power_up_type",
+        "documentation": {}
+    },
+    {
+        "label": "MyTestCase",
+        "kind": 6,
+        "importPath": "tests.bomb_test",
+        "description": "tests.bomb_test",
+        "peekOfCode": "class MyTestCase(unittest.TestCase):\n    def setUp(self):\n        game.enemy_list.append(Enemy(11, 11, Algorithm.DFS))\n        game.player = Player()\n    def test_plant(self):\n        bomb = game.player.plant_bomb(game.GRID_BASE)\n        self.assertEqual(1, bomb.pos_x)\n        self.assertEqual(1, bomb.pos_y)\n        self.assertEqual(3, bomb.range)\n    def test_get_range(self):",
+        "detail": "tests.bomb_test",
+        "documentation": {}
+    },
+    {
+        "label": "MyTestCase",
+        "kind": 6,
+        "importPath": "tests.explosion_test",
+        "description": "tests.explosion_test",
+        "peekOfCode": "class MyTestCase(unittest.TestCase):\n    def setUp(self):\n        game.enemy_list.append(Enemy(11, 11, Algorithm.DFS))\n        game.enemy_list.append(Enemy(1, 11, Algorithm.DIJKSTRA))\n        game.player = Player()\n    def test_explosion_sectors(self):\n        enemy = game.enemy_list[0]\n        game.bombs.append(enemy.plant_bomb(game.GRID_BASE))\n        game.update_bombs(game.GRID_BASE, 2980)\n        game.update_bombs(game.GRID_BASE, 50)",
+        "detail": "tests.explosion_test",
+        "documentation": {}
+    },
+    {
+        "label": "MyTestCase",
+        "kind": 6,
+        "importPath": "tests.map_generation_test",
+        "description": "tests.map_generation_test",
+        "peekOfCode": "class MyTestCase(unittest.TestCase):\n    def test_map_generation_corners(self):\n        grid = [row[:] for row in game.GRID_BASE]\n        game.generate_map(grid)\n        self.assertEqual(0, grid[1][1])\n        self.assertEqual(0, grid[1][2])\n        self.assertEqual(0, grid[2][1])\n        l = len(grid)\n        self.assertEqual(0, grid[l - 2][1])\n        self.assertEqual(0, grid[l - 2][2])",
+        "detail": "tests.map_generation_test",
+        "documentation": {}
+    },
+    {
+        "label": "Bomb",
+        "kind": 6,
+        "importPath": "bomb",
+        "description": "bomb",
+        "peekOfCode": "class Bomb:\n    frame = 0\n    def __init__(self, r, x, y, map, bomber):\n        self.range = r\n        self.pos_x = x\n        self.pos_y = y\n        self.time = 3000\n        self.bomber = bomber\n        self.sectors = []\n        self.get_range(map)",
+        "detail": "bomb",
+        "documentation": {}
+    },
+    {
+        "label": "Enemy",
+        "kind": 6,
+        "importPath": "enemy",
+        "description": "enemy",
+        "peekOfCode": "class Enemy:\n    dire = [[1, 0, 1], [0, 1, 0], [-1, 0, 3], [0, -1, 2]]\n    TILE_SIZE = 4\n    def __init__(self, x, y, alg):\n        self.life = True\n        self.path = []\n        self.movement_path = []\n        self.pos_x = x * Enemy.TILE_SIZE\n        self.pos_y = y * Enemy.TILE_SIZE\n        self.direction = 0",
+        "detail": "enemy",
+        "documentation": {}
+    },
+    {
+        "label": "Explosion",
+        "kind": 6,
+        "importPath": "explosion",
+        "description": "explosion",
+        "peekOfCode": "class Explosion:\n    bomber = None\n    def __init__(self, x, y, r):\n        self.sourceX = x\n        self.sourceY = y\n        self.range = r\n        self.time = 300\n        self.frame = 0\n        self.sectors = []\n    def explode(self, map, bombs, b, power_ups):",
+        "detail": "explosion",
+        "documentation": {}
+    },
+    {
+        "label": "game_init",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def game_init(surface, path, player_alg, en1_alg, en2_alg, en3_alg, scale):\n    global font\n    font = pygame.font.SysFont('Bebas', scale)\n    global enemy_list\n    global ene_blocks\n    global player\n    enemy_list = []\n    ene_blocks = []\n    global explosions\n    global bombs",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def draw(s, grid, tile_size, show_path, game_ended, terrain_images, bomb_images, explosion_images, power_ups_images):\n    s.fill(BACKGROUND_COLOR)\n    for i in range(len(grid)):\n        for j in range(len(grid[i])):\n            s.blit(terrain_images[grid[i][j]], (i * tile_size, j * tile_size, tile_size, tile_size))\n    for pu in power_ups:\n        s.blit(power_ups_images[pu.type.value], (pu.pos_x * tile_size, pu.pos_y * tile_size, tile_size, tile_size))\n    for x in bombs:\n        s.blit(bomb_images[x.frame], (x.pos_x * tile_size, x.pos_y * tile_size, tile_size, tile_size))\n    for y in explosions:",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "generate_map",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def generate_map(grid):\n    for i in range(1, len(grid) - 1):\n        for j in range(1, len(grid[i]) - 1):\n            if grid[i][j] != 0:\n                continue\n            elif (i < 3 or i > len(grid) - 4) and (j < 3 or j > len(grid[i]) - 4):\n                continue\n            if random.randint(0, 9) < 7:\n                grid[i][j] = 2\n    return",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def main(s, tile_size, show_path, terrain_images, bomb_images, explosion_images, power_ups_images):\n    grid = [row[:] for row in GRID_BASE]\n    generate_map(grid)\n    # power_ups.append(PowerUp(1, 2, PowerUpType.BOMB))\n    # power_ups.append(PowerUp(2, 1, PowerUpType.FIRE))\n    clock = pygame.time.Clock()\n    running = True\n    game_ended = False\n    while running:\n        dt = clock.tick(15)",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "update_bombs",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def update_bombs(grid, dt):\n    for b in bombs:\n        b.update(dt)\n        if b.time < 1:\n            b.bomber.bomb_limit += 1\n            grid[b.pos_x][b.pos_y] = 0\n            exp_temp = Explosion(b.pos_x, b.pos_y, b.range)\n            exp_temp.explode(grid, bombs, b, power_ups)\n            exp_temp.clear_sectors(grid, random, power_ups)\n            explosions.append(exp_temp)",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "check_end_game",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def check_end_game():\n    if not player.life:\n        return True\n    for en in enemy_list:\n        if en.life:\n            return False\n    return True",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "BACKGROUND_COLOR",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "BACKGROUND_COLOR = (107, 142, 35)\nfont = None\nplayer = None\nenemy_list = []\nene_blocks = []\nbombs = []\nexplosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "font = None\nplayer = None\nenemy_list = []\nene_blocks = []\nbombs = []\nexplosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "player",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "player = None\nenemy_list = []\nene_blocks = []\nbombs = []\nexplosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "enemy_list",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "enemy_list = []\nene_blocks = []\nbombs = []\nexplosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "ene_blocks",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "ene_blocks = []\nbombs = []\nexplosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "bombs",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "bombs = []\nexplosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "explosions",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "explosions = []\npower_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "power_ups",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "power_ups = []\nGRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "GRID_BASE",
+        "kind": 5,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "GRID_BASE = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],\n             [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],\n             [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "change_path",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):\n    global player_alg\n    player_alg = c\ndef change_enemy1(value, c):\n    global en1_alg\n    en1_alg = c\ndef change_enemy2(value, c):",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "change_player",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def change_player(value, c):\n    global player_alg\n    player_alg = c\ndef change_enemy1(value, c):\n    global en1_alg\n    en1_alg = c\ndef change_enemy2(value, c):\n    global en2_alg\n    en2_alg = c\ndef change_enemy3(value, c):",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "change_enemy1",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def change_enemy1(value, c):\n    global en1_alg\n    en1_alg = c\ndef change_enemy2(value, c):\n    global en2_alg\n    en2_alg = c\ndef change_enemy3(value, c):\n    global en3_alg\n    en3_alg = c\ndef run_game():",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "change_enemy2",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def change_enemy2(value, c):\n    global en2_alg\n    en2_alg = c\ndef change_enemy3(value, c):\n    global en3_alg\n    en3_alg = c\ndef run_game():\n    game.game_init(surface, show_path, player_alg, en1_alg, en2_alg, en3_alg, TILE_SIZE)\ndef main_background():\n    global surface",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "change_enemy3",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def change_enemy3(value, c):\n    global en3_alg\n    en3_alg = c\ndef run_game():\n    game.game_init(surface, show_path, player_alg, en1_alg, en2_alg, en3_alg, TILE_SIZE)\ndef main_background():\n    global surface\n    surface.fill(COLOR_BACKGROUND)\ndef menu_loop():\n    pygame.init()",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "run_game",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def run_game():\n    game.game_init(surface, show_path, player_alg, en1_alg, en2_alg, en3_alg, TILE_SIZE)\ndef main_background():\n    global surface\n    surface.fill(COLOR_BACKGROUND)\ndef menu_loop():\n    pygame.init()\n    pygame.display.set_caption('Bomberman')\n    clock = pygame.time.Clock()\n    menu_theme = pygame_menu.Theme(",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "main_background",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def main_background():\n    global surface\n    surface.fill(COLOR_BACKGROUND)\ndef menu_loop():\n    pygame.init()\n    pygame.display.set_caption('Bomberman')\n    clock = pygame.time.Clock()\n    menu_theme = pygame_menu.Theme(\n        selection_color=COLOR_WHITE,\n        widget_font=pygame_menu.font.FONT_BEBAS,",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "menu_loop",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def menu_loop():\n    pygame.init()\n    pygame.display.set_caption('Bomberman')\n    clock = pygame.time.Clock()\n    menu_theme = pygame_menu.Theme(\n        selection_color=COLOR_WHITE,\n        widget_font=pygame_menu.font.FONT_BEBAS,\n        title_font_size=TILE_SIZE,\n        title_font_color=COLOR_BLACK,\n        title_font=pygame_menu.font.FONT_BEBAS,",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_BACKGROUND",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "COLOR_BACKGROUND = (153, 153, 255)\nCOLOR_BLACK = (0, 0, 0)\nCOLOR_WHITE = (255, 255, 255)\nFPS = 60.0\nMENU_BACKGROUND_COLOR = (102, 102, 153)\nMENU_TITLE_COLOR = (51, 51, 255)\nWINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_BLACK",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "COLOR_BLACK = (0, 0, 0)\nCOLOR_WHITE = (255, 255, 255)\nFPS = 60.0\nMENU_BACKGROUND_COLOR = (102, 102, 153)\nMENU_TITLE_COLOR = (51, 51, 255)\nWINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_WHITE",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "COLOR_WHITE = (255, 255, 255)\nFPS = 60.0\nMENU_BACKGROUND_COLOR = (102, 102, 153)\nMENU_TITLE_COLOR = (51, 51, 255)\nWINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "FPS",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "FPS = 60.0\nMENU_BACKGROUND_COLOR = (102, 102, 153)\nMENU_TITLE_COLOR = (51, 51, 255)\nWINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "MENU_BACKGROUND_COLOR",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "MENU_BACKGROUND_COLOR = (102, 102, 153)\nMENU_TITLE_COLOR = (51, 51, 255)\nWINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "MENU_TITLE_COLOR",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "MENU_TITLE_COLOR = (51, 51, 255)\nWINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "WINDOW_SCALE",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "WINDOW_SCALE = 0.75\npygame.display.init()\nINFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "INFO",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "INFO = pygame.display.Info()\nTILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "TILE_SIZE",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "TILE_SIZE = int(INFO.current_h * 0.035)\nWINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "WINDOW_SIZE",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "WINDOW_SIZE = (13 * TILE_SIZE, 13 * TILE_SIZE)\nclock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "clock",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "clock = None\nplayer_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "player_alg",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "player_alg = Algorithm.PLAYER\nen1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "en1_alg",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "en1_alg = Algorithm.DIJKSTRA\nen2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):\n    global player_alg",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "en2_alg",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "en2_alg = Algorithm.DFS\nen3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):\n    global player_alg\n    player_alg = c",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "en3_alg",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "en3_alg = Algorithm.DIJKSTRA\nshow_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):\n    global player_alg\n    player_alg = c\ndef change_enemy1(value, c):",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "show_path",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "show_path = True\nsurface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):\n    global player_alg\n    player_alg = c\ndef change_enemy1(value, c):\n    global en1_alg",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "surface",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "surface = pygame.display.set_mode(WINDOW_SIZE)\ndef change_path(value, c):\n    global show_path\n    show_path = c\ndef change_player(value, c):\n    global player_alg\n    player_alg = c\ndef change_enemy1(value, c):\n    global en1_alg\n    en1_alg = c",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "node",
+        "description": "node",
+        "peekOfCode": "class Node:\n    parent = None\n    weight = None\n    direction = 1\n    def __init__(self, px, py, reach, base_weight, value):\n        self.x = px\n        self.y = py\n        self.reach = reach\n        self.base_weight = base_weight\n        self.value = value",
+        "detail": "node",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "player",
+        "description": "player",
+        "peekOfCode": "class Player:\n    pos_x = 4\n    pos_y = 4\n    direction = 0\n    frame = 0\n    animation = []\n    range = 3\n    bomb_limit = 1\n    TILE_SIZE = 4\n    def __init__(self):",
+        "detail": "player",
+        "documentation": {}
+    },
+    {
+        "label": "PowerUp",
+        "kind": 6,
+        "importPath": "power_up",
+        "description": "power_up",
+        "peekOfCode": "class PowerUp:\n    def __init__(self, x, y, power_type):\n        self.pos_x = x\n        self.pos_y = y\n        self.type = power_type",
+        "detail": "power_up",
+        "documentation": {}
+    }
+]
